@@ -17,14 +17,12 @@ Design: Creating high-level and detailed designs of the software architecture an
 Implementation: Writing code and building the software according to the design specifications.
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 Waterfall methodology is a linear and sequential approach to software development. It follows a set sequence of phases: Requirements, Design, Implementation, Testing, Deployment, and Maintenance.While Agile methodology is an iterative and incremental approach to software development. It emphasizes flexibility, collaboration, and customer feedback through iterative cycles called sprints or iterations.
-
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 Resposibility of a software developer:-he/she is responsible for writing code and implementing software solutions.
 Resposibility of a quantity assurance engineer:-he/she ensures software quality by designing and executing test plans.
 Resposibility of a project mananger:-he/she oversees the planning, execution, and delivery of software projects.
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 Integrated Development Environments (IDEs) these are Software suites that provide comprehensive tools for writing, debugging, and testing code while Version Control Systems (VCS) these are Software tools for tracking changes to source code and coordinating work among team members
-
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 change of requirements can lead to misunderstandings these can be overcomed by regularly interact with stakeholders to clarify and refine requirements.
 Ensuring that the software performs efficiently under various conditions can be difficult these can be overcomed by Using profiling tools to analyze performance
@@ -36,7 +34,6 @@ Unit Testing: Testing individual components or modules of software.
 importance -continuous integration help identify and fix defects early in the development process
           -leading to higher-quality software products.
 #Part 2: Introduction to AI and Prompt Engineering
-
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 It involves crafting and optimizing the way questions or are framed to guide the AI in generating desired responses.
