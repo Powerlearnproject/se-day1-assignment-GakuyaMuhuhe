@@ -27,8 +27,7 @@ Discuss the importance of Integrated Development Environments (IDEs) and Version
   Integrated Development Environments (IDEs) these are Software suites that provide comprehensive tools for writing, debugging, and testing code while Version Control Systems (VCS) these 
   are Software tools for tracking changes to source code and coordinating work among team members
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-  change of requirements can lead to misunderstandings these can be overcomed by regularly interact with stakeholders to clarify and refine requirements.
-  Ensuring that the software performs efficiently under various conditions can be difficult these can be overcomed by Using profiling tools to analyze performance
+change of requirements can lead to misunderstandings these can be overcomed by regularly interact with stakeholders to clarify and refine requirements.Ensuring that the software performs efficiently under various conditions can be difficult these can be overcomed by Using profiling tools to analyze performance
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
   Integration Testing: Testing interactions between different components or subsystems.
   System Testing: Testing the entire software system as a whole.
@@ -39,10 +38,6 @@ importance -continuous integration help identify and fix defects early in the de
 #Part 2: Introduction to AI and Prompt Engineering
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-It involves crafting and optimizing the way questions or are framed to guide the AI in generating desired responses.
-  importance-Well-crafted prompts lead to more accurate relevant responses.
-clear and specific prompts improve the AI's ability to understand and address user needs
+It involves crafting and optimizing the way questions or are framed to guide the AI in generating desired responses.importance-Well-crafted prompts lead to more accurate relevant responses.clear and specific prompts improve the AI's ability to understand and address user needs
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
-vague prompt tell me about cars
-effective prompt tell me about the history of BMW cars
-the prompt is effective because it is concise,specific and clear
+vague prompt tell me about cars effective prompt tell me about the history of BMW cars the prompt is effective because it is concise,specific and clear
